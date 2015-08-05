@@ -1,0 +1,48 @@
+Universe             = vanilla
+Notification         = Never
+GetEnv               = True
+Executable           = 
+Arguments            =    
+Output               = /_.out
+Error                = /_.err
+Log                  = /_.log
++Group               = "BESIII"
+should_transfer_files= yes
+transfer_input_files = / 
+# requirements         = (substr(Machine,0,4)!="bl-0"&&ARCH=="X86_64"&&Memory > 1024) && (machine != "bl-3-15.hep.ustc.edu.cn") && (machine != "bl-3-16.hep.ustc.edu.cn") && (machine != "bl-2-02.hep.ustc.edu.cn") && (machine != "bl-3-06.hep.ustc.edu.cn")
+WhenToTransferOutput = ON_EXIT_OR_EVICT 
+OnExitRemove         = TRUE 
+Queue
+
+Universe             = vanilla
+Notification         = Never
+GetEnv               = True
+Executable           = 
+Arguments            =    
+Output               = /_.out
+Error                = /_.err
+Log                  = /_.log
++Group               = "BESIII"
+should_transfer_files= yes
+transfer_input_files = / 
+# requirements         = (substr(Machine,0,4)!="bl-0"&&ARCH=="X86_64"&&Memory > 1024) && (machine != "bl-3-15.hep.ustc.edu.cn") && (machine != "bl-3-16.hep.ustc.edu.cn") && (machine != "bl-2-02.hep.ustc.edu.cn") && (machine != "bl-3-06.hep.ustc.edu.cn")
+WhenToTransferOutput = ON_EXIT_OR_EVICT 
+OnExitRemove         = TRUE 
+Queue
+
+Universe             = vanilla
+Notification         = Never
+GetEnv               = True
+Executable           = 
+Arguments            =    
+Output               = /_.out
+Error                = /_.err
+Log                  = /_.log
++Group               = "BESIII"
+should_transfer_files= yes
+transfer_input_files = / 
+# requirements         = (substr(Machine,0,4)!="bl-0"&&ARCH=="X86_64"&&Memory > 1024) && (machine != "bl-3-15.hep.ustc.edu.cn") && (machine != "bl-3-16.hep.ustc.edu.cn") && (machine != "bl-2-02.hep.ustc.edu.cn") && (machine != "bl-3-06.hep.ustc.edu.cn")
+WhenToTransferOutput = ON_EXIT_OR_EVICT 
+OnExitRemove         = TRUE 
+Queue
+
