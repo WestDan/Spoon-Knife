@@ -46,3 +46,17 @@ WhenToTransferOutput = ON_EXIT_OR_EVICT
 OnExitRemove         = TRUE 
 Queue
 
+I need to change file a to see what will be done to the original one.
+what should I add in this file. everything is ok, only if they are 
+something that can be easily concerned.
+
+like the punctuation char.
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
+!@#$$%^&&*():"{}?><,./;'[]\|
